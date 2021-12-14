@@ -1,0 +1,32 @@
+.photos {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 50px;
+  flex: 1;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 260px);
+  grid-template-rows: auto;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.noResults,
+.preloader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.noResults span {
+  text-align: center;
+  line-break: anywhere;
+  font-size: 20px;
+}
+
+.noResultsValue {
+  font-style: italic;
+}

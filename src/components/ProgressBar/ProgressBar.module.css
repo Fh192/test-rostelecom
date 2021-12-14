@@ -1,0 +1,11 @@
+.progress {
+  width: 200px;
+  height: 1px;
+  background: #dddddd;
+}
+
+.bar {
+  background: #0177fd;
+  height: 1px;
+  max-width: 200px;
+}

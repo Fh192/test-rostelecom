@@ -1,0 +1,25 @@
+.loadMore {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  gap: 10px;
+}
+
+.loadMore span {
+  text-align: center;
+}
+
+.loadMore button {
+  width: 120px;
+  height: 40px;
+  border: 1px solid #dddddd;
+  border-radius: 8px;
+}
+
+.loadMore button:disabled {
+  cursor: default;
+  background: rgba(0, 0, 0, 0.05);
+  border: none;
+}
