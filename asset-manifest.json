@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-rostelecom/static/css/main.c4a251a8.css",
+    "main.js": "/test-rostelecom/static/js/main.72fd483c.js",
+    "index.html": "/test-rostelecom/index.html",
+    "main.c4a251a8.css.map": "/test-rostelecom/static/css/main.c4a251a8.css.map",
+    "main.72fd483c.js.map": "/test-rostelecom/static/js/main.72fd483c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a251a8.css",
+    "static/js/main.72fd483c.js"
+  ]
+}
